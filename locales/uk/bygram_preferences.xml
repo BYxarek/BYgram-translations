@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BygramCustomization">Кастомізація</string>
+    <string name="BygramCustomProfileMusic">Власне відображення музики</string>
+    <string name="BygramCustomProfileMusicInfo">Показує музику в профілі великою карткою. Вимкніть, щоб використовувати звичайний компактний вигляд.</string>
+    <string name="BygramFilterZalgoInfo">Видаляє символи Zalgo, що спотворюють текст, з імен і повідомлень.</string>
+    <string name="BygramProfileIdModeInfo">Telegram API показує ID без змін. Bot API додає мінус для груп і -100 для супергруп та каналів.</string>
+    <string name="BygramProfileIdCopied">ID скопійовано</string>
+    <string name="BygramLiquidGlass">Рідке скло</string>
+    <string name="BygramLiquidGlassDisabled">Вимкнено</string>
+    <string name="BygramLiquidGlassEverywhere">Усюди</string>
+    <string name="BygramLiquidGlassSelected">Вибрано: %1$d</string>
+    <string name="BygramLiquidGlassInfo">Виберіть елементи інтерфейсу з ефектом рідкого скла. Після зміни повторно відкрийте активний екран.</string>
+    <string-array name="BygramLiquidGlassPlaces">
+        <item>Елементи перегляду фото й відео</item>
+        <item>Плавучі контекстні панелі</item>
+        <item>Плавучі кнопки дій</item>
+        <item>Рядки пошуку</item>
+        <item>Панель вибору повідомлень</item>
+        <item>Спливні меню й компактні перемикачі</item>
+        <item>Меню дій із повідомленням</item>
+        <item>Спливні меню кнопок</item>
+    </string-array>
+    <string-array name="BygramLiquidGlassExamples">
+        <item>Приклад: напівпрозорі елементи керування поверх фото</item>
+        <item>Приклад: матова панель дій поверх вмісту</item>
+        <item>Приклад: напівпрозора кругла кнопка дії</item>
+        <item>Приклад: матове поле пошуку поверх списку</item>
+        <item>Приклад: напівпрозора панель над вибраними повідомленнями</item>
+        <item>Приклад: компактне матове спливне меню</item>
+        <item>Приклад: відповідь, копіювання й видалення після натискання на повідомлення</item>
+        <item>Приклад: меню кнопки ⋮ у заголовку екрана</item>
+    </string-array>
+    <string name="BygramSwipePip">Проведіть угору для режиму «Зображення в зображенні»</string>
+    <string-array name="BygramTranslationProviders">
+        <item>Telegram</item>
+        <item>Google</item>
+        <item>Yandex</item>
+        <item>Microsoft</item>
+    </string-array>
+    <string name="BygramShowOnline">Онлайн на аватарках відправників</string>
+    <string name="BygramMaterial3">Material Design 3</string>
+    <string name="BygramAdminShortcuts">Дії адміністратора першими в меню повідомлення</string>
+    <string name="BygramInlineCalculator">Обчислювати вирази, що закінчуються на =</string>
+    <string name="BygramForceBlur">Розмивати скляні поверхні</string>
+    <string name="BygramCameraWideZoom">Ширококутний зум Camera2</string>
+    <string name="BygramFirebase">Firebase</string>
+    <string name="BygramFirebaseCrashlytics">Crashlytics</string>
+    <string name="BygramFirebaseAnalytics">Analytics</string>
+    <string name="BygramTelemetryInfo">Crashlytics допомагає знаходити й виправляти збої, а Analytics — розуміти, які функції потрібно покращити. Обидва сервіси можна вимкнути будь-коли.</string>
+</resources>

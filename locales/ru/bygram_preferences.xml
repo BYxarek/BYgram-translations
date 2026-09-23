@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BygramGeneral">Основное</string>
+    <string name="BygramAppearance">Внешний вид</string>
+    <string name="BygramChats">Чаты</string>
+    <string name="BygramTranslation">Перевод сообщений</string>
+    <string name="BygramTranslateButton">Показывать кнопку «Перевести»</string>
+    <string name="BygramTranslateChats">Переводить чаты целиком</string>
+    <string name="BygramDoNotTranslate">Не переводить</string>
+    <string name="BygramTranslationInfo">Кнопка «Перевести» появится в меню по нажатию на текстовое сообщение.</string>
+    <string name="BygramExactNumbers">Отключить округление чисел</string>
+    <string name="BygramSeconds">Форматировать время с секундами</string>
+    <string name="BygramNoNotificationDelay">Отключить задержку уведомлений</string>
+    <string name="BygramArchive">Архив чатов</string>
+    <string name="BygramHideArchive">Скрыть архив из списка чатов</string>
+    <string name="BygramChatList">Список чатов</string>
+    <string name="BygramHideStories">Скрыть истории</string>
+    <string name="BygramHideFab">Скрыть плавающую кнопку</string>
+    <string name="BygramHideSearch">Скрыть строку поиска</string>
+    <string name="BygramFolders">Папки с чатами</string>
+    <string name="BygramSystemFont">Системные шрифты</string>
+    <string name="BygramSystemEmoji">Системные эмодзи</string>
+    <string name="BygramChatSettings">Настройки чатов</string>
+    <string name="BygramStickerSize">Размер стикеров</string>
+    <string name="BygramHideStickerTime">Скрыть время на стикерах</string>
+    <string name="BygramMessages">Сообщения</string>
+    <string name="BygramHideShare">Скрыть боковую кнопку «Поделиться»</string>
+    <string name="BygramPhotos">Фото</string>
+    <string name="BygramAlwaysHD">Всегда отправлять в HD</string>
+    <string name="BygramProfile">Профиль</string>
+    <string name="BygramCustomization">Кастомизация</string>
+    <string name="BygramCustomProfileMusic">Кастомное отображение музыки</string>
+    <string name="BygramCustomProfileMusicInfo">Показывает музыку в профиле крупной карточкой. Выключите, чтобы использовать обычный компактный вид.</string>
+    <string name="BygramRelativeOnline">Относительное время онлайна</string>
+    <string name="BygramHidePhone">Скрыть номер телефона</string>
+    <string name="BygramScrollHideKeyboard">Скрывать клавиатуру при прокрутке</string>
+    <string name="BygramLastSeenNow">был(а) только что</string>
+    <string name="BygramLastSeenMinutes">был(а) %1$d мин. назад</string>
+    <string name="BygramLastSeenHours">был(а) %1$d ч. назад</string>
+    <string name="BygramHideGreeting">Скрыть приветственный стикер</string>
+    <string name="BygramMentionComma">Запятая после упоминания</string>
+    <string name="BygramArchiveOnPull">Показывать архив при потягивании</string>
+    <string name="BygramNoUnarchiveSwipe">Отключить жест «Вернуть»</string>
+    <string name="BygramAvatarCorners">Закругление аватарок</string>
+    <string name="BygramSquare">Квадрат</string>
+    <string name="BygramCircle">Круг</string>
+    <string name="BygramUniformAvatars">Единое закругление</string>
+    <string name="BygramUniformAvatarsInfo">Форумы будут иметь ту же форму, что и чаты.</string>
+    <string name="BygramDownloadBoost">Ускорение загрузки</string>
+    <string name="BygramBoostOff">Откл.</string>
+    <string name="BygramBoostFast">Быстро</string>
+    <string name="BygramBoostUltra">Ультра</string>
+    <string name="BygramUploadBoost">Ускорение отправки</string>
+    <string name="BygramBoostInfo">Применяется к новым загрузкам. Ультра-ускорение может вызывать проблемы с просмотром видео на медленном соединении.</string>
+    <string name="BygramFilterZalgo">Фильтр «Zalgo»</string>
+    <string name="BygramFilterZalgoInfo">Убирает искажающие текст символы Zalgo в именах и сообщениях.</string>
+    <string name="BygramTranslatePremium">Перевод чатов целиком через сервис Telegram доступен с Telegram Premium.</string>
+    <string name="BygramSaveFolder">Папка сохранения файлов</string>
+    <string name="BygramSaveFolderInfo">Имя подпапки в разделах Фото, Видео, Загрузки и Музыка. Применяется к новым сохранениям; существующие файлы не перемещаются.</string>
+    <string name="BygramSaveFolderInvalid">От 1 до 255 латинских букв, цифр, пробелов, точек, дефисов или подчёркиваний. Без пробела по краям и точки в конце.</string>
+    <string name="BygramForceSnow">Всегда показывать снег</string>
+    <string name="BygramHideTitleStatus">Скрыть Premium-статус в заголовке</string>
+    <string name="BygramCenterTitle">Заголовок по центру</string>
+    <string name="BygramTitleText">Текст заголовка</string>
+    <string-array name="BygramTitleOptions">
+        <item>BYgram</item>
+        <item>Имя пользователя</item>
+        <item>Имя</item>
+        <item>Чаты</item>
+    </string-array>
+    <string name="BygramProfileId">Показывать ID и DC</string>
+    <string name="BygramProfileIdInfo">ID · Дата-центр аватара</string>
+    <string name="BygramProfileIdModeInfo">Telegram API показывает ID как есть. Bot API добавляет минус для групп и -100 для супергрупп и каналов.</string>
+    <string-array name="BygramIdOptions">
+        <item>Скрыть</item>
+        <item>Telegram API</item>
+        <item>Bot API</item>
+    </string-array>
+    <string name="BygramProfileIdCopied">ID скопирован</string>
+    <string name="BygramLiquidGlass">Жидкое стекло</string>
+    <string name="BygramLiquidGlassDisabled">Выключено</string>
+    <string name="BygramLiquidGlassEverywhere">Везде</string>
+    <string name="BygramLiquidGlassSelected">Выбрано: %1$d</string>
+    <string name="BygramLiquidGlassInfo">Выберите элементы интерфейса с эффектом жидкого стекла. После изменения повторно откройте активный экран.</string>
+    <string-array name="BygramLiquidGlassPlaces">
+        <item>Элементы просмотра фото и видео</item>
+        <item>Плавающие контекстные панели</item>
+        <item>Плавающие кнопки действий</item>
+        <item>Строки поиска</item>
+        <item>Панель выделения сообщений</item>
+        <item>Всплывающие меню и компактные селекторы</item>
+        <item>Меню действий с сообщением</item>
+        <item>Всплывающие меню кнопок</item>
+    </string-array>
+    <string-array name="BygramLiquidGlassExamples">
+        <item>Пример: полупрозрачные кнопки поверх фото</item>
+        <item>Пример: матовая панель действий над контентом</item>
+        <item>Пример: полупрозрачная круглая кнопка</item>
+        <item>Пример: матовое поле поиска поверх списка</item>
+        <item>Пример: полупрозрачная панель над сообщениями</item>
+        <item>Пример: матовое компактное меню</item>
+        <item>Пример: ответ, копирование и удаление после нажатия на сообщение</item>
+        <item>Пример: меню кнопки ⋮ в заголовке экрана</item>
+    </string-array>
+    <string name="BygramUnlimitedStickers">Неограниченные недавние стикеры</string>
+    <string name="BygramHideReactions">Скрывать реакции</string>
+    <string name="BygramPrivateChats">В личных чатах</string>
+    <string name="BygramGroups">В группах</string>
+    <string name="BygramChannels">В каналах</string>
+    <string name="BygramEditedIcon">Значок вместо «изменено»</string>
+    <string name="BygramPollResults">Результаты опроса до голосования</string>
+    <string name="BygramCamera">Камера</string>
+    <string name="BygramRoundCamera">Камера для кружков</string>
+    <string name="BygramRememberCamera">Запоминать последнюю камеру</string>
+    <string-array name="BygramCameraOptions">
+        <item>Фронтальная</item>
+        <item>Основная</item>
+        <item>Спрашивать каждый раз</item>
+    </string-array>
+    <string name="BygramVideo">Видео</string>
+    <string name="BygramVideoSeek">Шаг перемотки двойным нажатием</string>
+    <string-array name="BygramSeekOptions">
+        <item>5 секунд</item>
+        <item>10 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+    </string-array>
+    <string name="BygramSwipePip">Свайп вверх: «Картинка в картинке»</string>
+    <string name="BygramDisableVolumeUnmute">Не включать звук клавишами громкости</string>
+    <string name="BygramPauseVideo">Приостанавливать видео при сворачивании</string>
+    <string name="BygramTranslationProvider">Сервис перевода</string>
+    <string name="BygramTranslationTarget">Язык перевода</string>
+    <string-array name="BygramTranslationProviders">
+        <item>Telegram</item>
+        <item>Google</item>
+        <item>Yandex</item>
+        <item>Microsoft</item>
+    </string-array>
+    <string name="BygramDisableVibration">Отключить вибрацию в приложении</string>
+    <string name="BygramHideSendAs">Скрыть «Отправить от имени»</string>
+    <string name="BygramSendAs">Отправить от имени</string>
+    <string name="BygramSendAsPremium">Для выбора этого отправителя требуется Telegram Premium.</string>
+    <string name="BygramFolderStyle">Оформление вкладок папок</string>
+    <string name="BygramHideFolderCounters">Скрыть счётчики непрочитанных</string>
+    <string name="BygramEditFolders">Управление папками</string>
+    <string-array name="BygramFolderStyles">
+        <item>Текст</item>
+        <item>Иконки и текст</item>
+        <item>Иконки</item>
+    </string-array>
+    <string name="BygramFabShape">Форма плавающей кнопки</string>
+    <string-array name="BygramFabShapes">
+        <item>Круг</item>
+        <item>Скруглённый квадрат</item>
+        <item>Квадрат</item>
+    </string-array>
+    <string name="BygramDisableChatThemes">Использовать тему приложения во всех чатах</string>
+    <string name="BygramPauseVoice">Пауза голосовых сообщений при сворачивании</string>
+    <string name="BygramPauseRound">Пауза видеосообщений при сворачивании</string>
+    <string name="BygramDisableAvatarAnimation">Отключить анимацию аватарок</string>
+    <string name="BygramOriginalVideo">Предпочитать исходное качество видео</string>
+    <string name="BygramDoubleTapIn">Двойное нажатие на входящие</string>
+    <string name="BygramDoubleTapOut">Двойное нажатие на исходящие</string>
+    <string-array name="BygramDoubleTapActions">
+        <item>Отключено</item>
+        <item>Реакция</item>
+        <item>Ответить</item>
+        <item>Копировать</item>
+        <item>Переслать</item>
+        <item>Редактировать своё сообщение</item>
+        <item>Сохранить в избранное</item>
+        <item>Повторить через черновик</item>
+        <item>Удалить</item>
+        <item>Перевести</item>
+    </string-array>
+    <string name="BygramGestures">Жесты сообщений</string>
+    <string name="BygramGesturesInfo">Доступны только разрешённые для сообщения действия. Удаление требует подтверждения; повтор открывает черновик.</string>
+    <string name="BygramSwipeIn">Свайп входящих сообщений влево</string>
+    <string name="BygramSwipeOut">Свайп исходящих сообщений влево</string>
+    <string-array name="BygramSwipeActions">
+        <item>Отключено</item>
+        <item>Ответить</item>
+        <item>Копировать</item>
+        <item>Переслать</item>
+        <item>Редактировать своё сообщение</item>
+        <item>Сохранить в избранное</item>
+        <item>Повторить через черновик</item>
+        <item>Удалить</item>
+        <item>Перевести</item>
+    </string-array>
+    <string name="BygramPlainReplyColors">Использовать цвета темы в ответах</string>
+    <string name="BygramHideReplyBackground">Скрыть фон ответов</string>
+    <string name="BygramHideReplyEmoji">Скрыть эмодзи в ответах</string>
+    <string name="BygramSectionRadius">Радиус секций</string>
+    <string name="BygramSeparateHeaders">Отдельные заголовки в настройках</string>
+    <string name="BygramDividerStyle">Разделители в настройках</string>
+    <string-array name="BygramDividerStyles">
+        <item>Скрыты</item>
+        <item>Линия</item>
+        <item>Сегменты</item>
+    </string-array>
+    <string name="BygramMessageMenu">Меню сообщения</string>
+    <string name="BygramGroupMessageMenu">Группировать действия сообщений</string>
+    <string name="BygramHiddenMenuItems">Скрыть пункты меню</string>
+    <string name="BygramHiddenMenuInfo">Включённый переключатель скрывает соответствующий пункт. Действия жестами остаются доступными, если разрешены для сообщения.</string>
+    <string-array name="BygramMenuItems">
+        <item>Ответить</item>
+        <item>Копировать</item>
+        <item>Переслать</item>
+        <item>Редактировать</item>
+        <item>Перевести</item>
+        <item>Поделиться</item>
+        <item>Сохранить в галерею</item>
+        <item>Сохранить в загрузки или музыку</item>
+        <item>Закрепить</item>
+        <item>Открепить</item>
+        <item>Удалить</item>
+        <item>Пожаловаться</item>
+    </string-array>
+    <string name="BygramCameraType">Камера для видеосообщений</string>
+    <string-array name="BygramCameraTypes">
+        <item>Автоматически</item>
+        <item>Camera 1</item>
+        <item>Camera 2</item>
+    </string-array>
+    <string name="BygramZoomSlider">Ползунок масштаба для видеосообщений</string>
+    <string name="BygramStaticZoom">Сохранять масштаб после отпускания пальцев</string>
+    <string name="BygramHideCameraTile">Заменить плитку камеры плавающей кнопкой</string>
+    <string name="BygramMicrosoftKey">Ключ API Microsoft Translator</string>
+    <string name="BygramConfigured">Настроен</string>
+    <string name="BygramNotConfigured">Не настроен</string>
+    <string name="BygramStickerTime">Время на стикерах</string>
+    <string-array name="BygramStickerTimes">
+        <item>На стикере</item>
+        <item>Сбоку от стикера</item>
+        <item>Скрыто</item>
+    </string-array>
+    <string name="BygramStickerShape">Форма стикера</string>
+    <string-array name="BygramStickerShapes">
+        <item>Исходная</item>
+        <item>Слабое скругление</item>
+        <item>Скруглённая</item>
+        <item>Круг</item>
+    </string-array>
+    <string name="BygramHideMessageTail">Скрыть хвост пузыря сообщения</string>
+    <string name="BygramChannelButton">Кнопка под публикациями каналов</string>
+    <string-array name="BygramChannelButtons">
+        <item>Скрыта</item>
+        <item>Отключить уведомления</item>
+        <item>Обсуждение</item>
+    </string-array>
+    <string name="BygramMiniSenderAvatar">Показывать аватарки отправителей в списке чатов</string>
+    <string name="BygramShowOnline">Онлайн на аватарках отправителей</string>
+    <string name="BygramMaterial3">Material Design 3</string>
+    <string name="BygramMd3Loading">Индикаторы загрузки Material 3</string>
+    <string name="BygramMd3Switches">Переключатели Material 3</string>
+    <string name="BygramMd3ChatHeader">Заголовок чата Material 3</string>
+    <string name="BygramWidePostsChannels">Широкие публикации в каналах</string>
+    <string name="BygramWidePostsFeed">Широкие публикации в ленте</string>
+    <string name="BygramAdminShortcuts">Действия админа вверху меню</string>
+    <string name="BygramQuickTransitions">Быстрые переходы в чатах и темах</string>
+    <string name="BygramInlineCalculator">Считать выражения со знаком =</string>
+    <string name="BygramHideAllTab">Скрыть вкладку «Все чаты»</string>
+    <string name="BygramMd3Sliders">Ползунки Material 3</string>
+    <string name="BygramNavigation">Навигация приложения</string>
+    <string name="BygramBottomNavigation">Нижняя навигация</string>
+    <string-array name="BygramBottomNavigationModes">
+        <item>Показана</item>
+        <item>Скрыта</item>
+        <item>Плавающая</item>
+    </string-array>
+    <string name="BygramIconPack">Набор иконок</string>
+    <string-array name="BygramIconPacks">
+        <item>Telegram</item>
+        <item>Люди</item>
+        <item>Папки</item>
+    </string-array>
+    <string name="BygramPillStack">Радиус Pill Stack</string>
+    <string name="BygramGlassOutline">Контур стеклянной навигации</string>
+    <string name="BygramForceBlur">Размывать стеклянные поверхности</string>
+    <string name="BygramTabletMode">Планшетный режим (нужен перезапуск)</string>
+    <string name="BygramQuickChannels">Быстрый свайп к следующему каналу</string>
+    <string name="BygramQuickTopics">Быстрый свайп к следующей теме</string>
+    <string name="BygramCameraFps">Частота кадров Camera2</string>
+    <string name="BygramCameraStabilization">Стабилизация видео Camera2</string>
+    <string name="BygramCameraWideZoom">Широкоугольный зум Camera2</string>
+    <string-array name="BygramTabletModes">
+        <item>Авто</item>
+        <item>Включён</item>
+        <item>Выключен</item>
+    </string-array>
+    <string-array name="BygramCameraFpsOptions">
+        <item>Авто</item>
+        <item>24 FPS</item>
+        <item>30 FPS</item>
+        <item>60 FPS</item>
+    </string-array>
+    <string name="BygramOther">Другое</string>
+    <string name="BygramFirebase">Firebase</string>
+    <string name="BygramFirebaseCrashlytics">Crashlytics</string>
+    <string name="BygramFirebaseAnalytics">Analytics</string>
+    <string name="BygramExportSettings">Экспорт настроек BYgram</string>
+    <string name="BygramResetSettings">Сброс настроек BYgram</string>
+    <string name="BygramExportInfo">Экспорт параметров BYgram без истории сообщений, контактов и ключей переводчика.</string>
+    <string name="BygramResetInfo">Вернуть параметры BYgram к исходным значениям? Аккаунты и сохранённая история сообщений останутся. После сброса перезапустите приложение.</string>
+    <string name="BygramExportFailed">Не удалось сохранить настройки. Выберите другое место и попробуйте снова.</string>
+    <string name="BygramTelemetryInfo">Crashlytics помогает находить и исправлять сбои, а Analytics — понимать, какие функции нужно улучшить. Оба сервиса можно отключить в любое время.</string>
+    <string name="BygramDeleteAccount">Удалить аккаунт</string>
+    <string name="BygramMessageDetails">Сведения о сообщении</string>
+    <string name="BygramRepeatDraft">Повторить через черновик</string>
+    <string name="BygramCopyPhoto">Копировать фото</string>
+</resources>
