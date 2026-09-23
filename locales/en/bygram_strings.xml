@@ -6,7 +6,7 @@
     <string name="BygramLinks">Links</string>
     <string name="BygramChannel">Channel</string>
     <string name="BygramChat">Chat</string>
-    <string name="BygramCrowdin">Crowdin</string>
+    <string name="BygramTranslations">Translations</string>
     <string name="BygramGhostMode">Ghost Mode</string>
     <string name="BygramSpyMode">Spy</string>
     <string name="BygramGhostMaster">Ghost Mode <xliff:g id="progress" example="3/5">%1$d/5</xliff:g></string>

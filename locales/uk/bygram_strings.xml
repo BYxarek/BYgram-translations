@@ -6,7 +6,7 @@
     <string name="BygramLinks">Посилання</string>
     <string name="BygramChannel">Канал</string>
     <string name="BygramChat">Чат</string>
-    <string name="BygramCrowdin">Crowdin</string>
+    <string name="BygramTranslations">Переклади</string>
     <string name="BygramGhostMode">Режим привида</string>
     <string name="BygramSpyMode">Шпигун</string>
     <string name="BygramGhostMaster">Режим привида <xliff:g id="progress" example="3/5">%1$d/5</xliff:g></string>
