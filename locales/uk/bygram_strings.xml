@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="BygramResourceBadgeNotice">Офіційний ресурс BYgram</string>
+    <string name="BygramUserBadgeNotice">Користувач є учасником команди BYgram</string>
+    <string name="BygramCustomTyping">Власний статус друку</string>
+    <string name="BygramCustomTypingInfo">Задайте фразу для кожної дії в особистих чатах. Інші користувачі BYgram побачать її після підтвердження облікового запису через бота. Порожнє поле повертає звичайний статус.</string>
+    <string name="BygramTypingDefault">Звичайний статус</string>
+    <string name="BygramTypingText">Друкує</string>
+    <string name="BygramTypingRecordAudio">Записує голосове</string>
+    <string name="BygramTypingCancel">Скасування</string>
+    <string name="BygramTypingFile">Надсилає файл</string>
+    <string name="BygramTypingPhoto">Надсилає фото</string>
+    <string name="BygramTypingVideo">Надсилає відео</string>
+    <string name="BygramTypingRecordVideo">Записує відео</string>
+    <string name="BygramTypingRecordRound">Записує відеоповідомлення</string>
+    <string name="BygramTypingUploadRound">Надсилає відеоповідомлення</string>
+    <string name="BygramTypingAudio">Надсилає аудіо</string>
+    <string name="BygramTypingGame">Грає</string>
+    <string name="BygramTypingPublish">Опублікувати статуси</string>
+    <string name="BygramTypingPublishSuccess">Статуси успішно збережено</string>
+    <string name="BygramTypingVerify">Підтвердьте обліковий запис Telegram через бота, потім поверніться сюди та натисніть «Опублікувати статуси».</string>
+    <string name="BygramTypingOpenBot">Відкрити бота</string>
+    <string name="BygramTypingPublishFailed">Не вдалося опублікувати статуси. Перевірте мережу та повторіть спробу.</string>
     <string name="BygramSettings">Налаштування BYgram</string>
     <string name="BygramSettingsInfo">Конфіденційність і локальне керування повідомленнями</string>
     <string name="BygramCategories">Категорії</string>

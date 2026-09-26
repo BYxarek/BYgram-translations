@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="BygramResourceBadgeNotice">Official BYgram resource</string>
+    <string name="BygramUserBadgeNotice">This user is a member of the BYgram team</string>
+    <string name="BygramCustomTyping">Custom typing status</string>
+    <string name="BygramCustomTypingInfo">Set a phrase for each action in private chats. Other BYgram users see it after you confirm your Telegram account through the bot. Empty text restores the standard status.</string>
+    <string name="BygramTypingDefault">Standard status</string>
+    <string name="BygramTypingText">Typing</string>
+    <string name="BygramTypingRecordAudio">Recording voice</string>
+    <string name="BygramTypingCancel">Cancel</string>
+    <string name="BygramTypingFile">Sending file</string>
+    <string name="BygramTypingPhoto">Sending photo</string>
+    <string name="BygramTypingVideo">Sending video</string>
+    <string name="BygramTypingRecordVideo">Recording video</string>
+    <string name="BygramTypingRecordRound">Recording video message</string>
+    <string name="BygramTypingUploadRound">Sending video message</string>
+    <string name="BygramTypingAudio">Sending audio</string>
+    <string name="BygramTypingGame">Playing game</string>
+    <string name="BygramTypingPublish">Publish statuses</string>
+    <string name="BygramTypingPublishSuccess">Statuses saved successfully</string>
+    <string name="BygramTypingVerify">Confirm your Telegram account through the BYgram bot, then return here and tap Publish statuses.</string>
+    <string name="BygramTypingOpenBot">Open bot</string>
+    <string name="BygramTypingPublishFailed">Could not publish statuses. Check your connection and try again.</string>
     <string name="BygramSettings">BYgram Settings</string>
     <string name="BygramSettingsInfo">Privacy and local message controls</string>
     <string name="BygramCategories">Categories</string>

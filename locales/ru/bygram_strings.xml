@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="BygramResourceBadgeNotice">Официальный ресурс BYgram</string>
+    <string name="BygramUserBadgeNotice">Пользователь является участником команды BYgram</string>
+    <string name="BygramCustomTyping">Кастомный статус печати</string>
+    <string name="BygramCustomTypingInfo">Задайте фразу для каждого действия в личных чатах. Другие пользователи BYgram увидят её после подтверждения аккаунта через бота. Пустое поле возвращает обычный статус.</string>
+    <string name="BygramTypingDefault">Обычный статус</string>
+    <string name="BygramTypingText">Печатает</string>
+    <string name="BygramTypingRecordAudio">Записывает голосовое</string>
+    <string name="BygramTypingCancel">Отмена</string>
+    <string name="BygramTypingFile">Отправляет файл</string>
+    <string name="BygramTypingPhoto">Отправляет фото</string>
+    <string name="BygramTypingVideo">Отправляет видео</string>
+    <string name="BygramTypingRecordVideo">Записывает видео</string>
+    <string name="BygramTypingRecordRound">Записывает видеосообщение</string>
+    <string name="BygramTypingUploadRound">Отправляет видеосообщение</string>
+    <string name="BygramTypingAudio">Отправляет аудио</string>
+    <string name="BygramTypingGame">Играет</string>
+    <string name="BygramTypingPublish">Опубликовать статусы</string>
+    <string name="BygramTypingPublishSuccess">Статусы успешно сохранены</string>
+    <string name="BygramTypingVerify">Подтвердите Telegram-аккаунт через бота, затем вернитесь сюда и нажмите «Опубликовать статусы».</string>
+    <string name="BygramTypingOpenBot">Открыть бота</string>
+    <string name="BygramTypingPublishFailed">Не удалось опубликовать статусы. Проверьте сеть и повторите попытку.</string>
     <string name="BygramSettings">Настройки BYgram</string>
     <string name="BygramSettingsInfo">Конфиденциальность и локальное управление сообщениями</string>
     <string name="BygramCategories">Категории</string>
