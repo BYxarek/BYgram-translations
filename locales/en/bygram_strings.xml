@@ -88,4 +88,17 @@
     <string name="BygramIconCurrent">Current</string>
     <string name="BygramIconNew">New</string>
     <string name="BygramIconTelegram">Telegram</string>
+    <string name="BygramHiddenChats">Hidden chats</string>
+    <string name="BygramProtectedChats">Password protected chats</string>
+    <string name="BygramHiddenPin">Hidden chats code</string>
+    <string name="BygramSetPin">Set numeric code (at least 4 digits)</string>
+    <string name="BygramChangePin">Change numeric code</string>
+    <string name="BygramHiddenChatsInfo">Enter the code in chat search to open hidden chats.</string>
+    <string name="BygramProtectedChatsInfo">Each chat has its own password (at least 4 characters).</string>
+    <string name="BygramChatPassword">Chat password</string>
+    <string name="BygramChangePassword">Change password</string>
+    <string name="BygramRemovePassword">Remove password</string>
+    <string name="BygramPrivacyError">Incorrect or too short code or password</string>
+    <string name="BygramOpenToRead">Open to read</string>
+    <string name="BygramProtectedPreview">Hidden 🔒</string>
 </resources>

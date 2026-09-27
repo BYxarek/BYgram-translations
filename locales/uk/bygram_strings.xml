@@ -88,4 +88,17 @@
     <string name="BygramIconCurrent">Поточний</string>
     <string name="BygramIconNew">Новий</string>
     <string name="BygramIconTelegram">Telegram</string>
+    <string name="BygramHiddenChats">Приховані чати</string>
+    <string name="BygramProtectedChats">Чати з паролем</string>
+    <string name="BygramHiddenPin">Код прихованих чатів</string>
+    <string name="BygramSetPin">Установити цифровий код (від 4 цифр)</string>
+    <string name="BygramChangePin">Змінити цифровий код</string>
+    <string name="BygramHiddenChatsInfo">Введіть код у пошуку чатів, щоб відкрити приховані чати.</string>
+    <string name="BygramProtectedChatsInfo">Для кожного чату встановлюється окремий пароль (від 4 символів).</string>
+    <string name="BygramChatPassword">Пароль чату</string>
+    <string name="BygramChangePassword">Змінити пароль</string>
+    <string name="BygramRemovePassword">Видалити пароль</string>
+    <string name="BygramPrivacyError">Неправильний або надто короткий код чи пароль</string>
+    <string name="BygramOpenToRead">Відкрийте, щоб прочитати</string>
+    <string name="BygramProtectedPreview">Приховано 🔒</string>
 </resources>

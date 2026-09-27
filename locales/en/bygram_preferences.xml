@@ -68,13 +68,6 @@
     <string name="BygramProfileIdModeInfo">Telegram API shows the ID as-is. Bot API adds a minus sign for groups and -100 for supergroups and channels.</string>
     <string-array name="BygramIdOptions"><item>Hide</item><item>Telegram API</item><item>Bot API</item></string-array>
     <string name="BygramProfileIdCopied">ID copied</string>
-    <string name="BygramLiquidGlass">Liquid Glass</string>
-    <string name="BygramLiquidGlassDisabled">Off</string>
-    <string name="BygramLiquidGlassEverywhere">Everywhere</string>
-    <string name="BygramLiquidGlassSelected">Selected: %1$d</string>
-    <string name="BygramLiquidGlassInfo">Choose the interface elements that use the Liquid Glass effect. Reopen an active screen after changing this option.</string>
-    <string-array name="BygramLiquidGlassPlaces"><item>Photo and video viewer controls</item><item>Floating context panels</item><item>Floating action buttons</item><item>Search bars</item><item>Message selection toolbar</item><item>Popup menus and compact selectors</item><item>Message action menus</item><item>Button popup menus</item></string-array>
-    <string-array name="BygramLiquidGlassExamples"><item>Example: translucent viewer controls over the photo</item><item>Example: a frosted action panel above content</item><item>Example: a translucent round action button</item><item>Example: a frosted search field over the list</item><item>Example: a translucent toolbar above selected messages</item><item>Example: a frosted compact popup menu</item><item>Example: reply, copy and delete actions after tapping a message</item><item>Example: the ⋮ button menu in a screen header</item></string-array>
     <string name="BygramUnlimitedStickers">Unlimited recent stickers</string>
     <string name="BygramHideReactions">Hide reactions</string>
     <string name="BygramPrivateChats">In private chats</string>

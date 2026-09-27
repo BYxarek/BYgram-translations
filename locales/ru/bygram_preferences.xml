@@ -77,31 +77,6 @@
         <item>Bot API</item>
     </string-array>
     <string name="BygramProfileIdCopied">ID скопирован</string>
-    <string name="BygramLiquidGlass">Жидкое стекло</string>
-    <string name="BygramLiquidGlassDisabled">Выключено</string>
-    <string name="BygramLiquidGlassEverywhere">Везде</string>
-    <string name="BygramLiquidGlassSelected">Выбрано: %1$d</string>
-    <string name="BygramLiquidGlassInfo">Выберите элементы интерфейса с эффектом жидкого стекла. После изменения повторно откройте активный экран.</string>
-    <string-array name="BygramLiquidGlassPlaces">
-        <item>Элементы просмотра фото и видео</item>
-        <item>Плавающие контекстные панели</item>
-        <item>Плавающие кнопки действий</item>
-        <item>Строки поиска</item>
-        <item>Панель выделения сообщений</item>
-        <item>Всплывающие меню и компактные селекторы</item>
-        <item>Меню действий с сообщением</item>
-        <item>Всплывающие меню кнопок</item>
-    </string-array>
-    <string-array name="BygramLiquidGlassExamples">
-        <item>Пример: полупрозрачные кнопки поверх фото</item>
-        <item>Пример: матовая панель действий над контентом</item>
-        <item>Пример: полупрозрачная круглая кнопка</item>
-        <item>Пример: матовое поле поиска поверх списка</item>
-        <item>Пример: полупрозрачная панель над сообщениями</item>
-        <item>Пример: матовое компактное меню</item>
-        <item>Пример: ответ, копирование и удаление после нажатия на сообщение</item>
-        <item>Пример: меню кнопки ⋮ в заголовке экрана</item>
-    </string-array>
     <string name="BygramUnlimitedStickers">Неограниченные недавние стикеры</string>
     <string name="BygramHideReactions">Скрывать реакции</string>
     <string name="BygramPrivateChats">В личных чатах</string>
