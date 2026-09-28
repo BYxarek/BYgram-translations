@@ -101,4 +101,10 @@
     <string name="BygramPrivacyError">Incorrect or too short code or password</string>
     <string name="BygramOpenToRead">Open to read</string>
     <string name="BygramProtectedPreview">Hidden 🔒</string>
+    <string name="BygramProfileViews">Profile views</string>
+    <string name="BygramProfileViewsInfo">See who viewed your profile in the last 7 days. If others enable this setting, they can also see that you viewed their profile.</string>
+    <string name="BygramProfileViewsRecent">Last 7 days</string>
+    <string name="BygramProfileViewsEmpty">No one has viewed your profile yet</string>
+    <string name="BygramProfileViewsVerify">Verify your account with the Telegram bot, then return and enable this feature.</string>
+    <string name="BygramProfileViewsNotification">%1$s viewed your profile</string>
 </resources>

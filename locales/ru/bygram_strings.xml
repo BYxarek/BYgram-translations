@@ -101,4 +101,10 @@
     <string name="BygramPrivacyError">Неверный или слишком короткий код или пароль</string>
     <string name="BygramOpenToRead">Откройте, чтобы прочитать</string>
     <string name="BygramProtectedPreview">Скрыто 🔒</string>
+    <string name="BygramProfileViews">Просмотры профиля</string>
+    <string name="BygramProfileViewsInfo">Узнайте, кто просматривал ваш профиль за последние 7 дней. Если у других пользователей включена эта настройка, они также увидят, что вы просматривали их профиль.</string>
+    <string name="BygramProfileViewsRecent">За последние 7 дней</string>
+    <string name="BygramProfileViewsEmpty">Пока никто не просматривал ваш профиль</string>
+    <string name="BygramProfileViewsVerify">Подтвердите свой аккаунт через Telegram-бота, затем вернитесь и включите функцию.</string>
+    <string name="BygramProfileViewsNotification">%1$s просмотрел(а) ваш профиль</string>
 </resources>
