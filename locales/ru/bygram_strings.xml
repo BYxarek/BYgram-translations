@@ -47,7 +47,7 @@
     <string name="BygramSaveLastOnlineInfo">Сохраняет последнее замеченное время в сети для пользователей со скрытым временем посещения. Время приблизительное.</string>
     <string name="BygramObservedOnline">Замечен в сети: %1$s</string>
     <string name="BygramClearSpyData">Очистить данные режима «Шпион»</string>
-    <string name="BygramClearOnlineHistory">Очистить историю посещений</string>
+    <string name="BygramReadDateLabel">Прочитано: %1$s</string>
     <string name="BygramClearSpyDataConfirm">Удалить локальную историю правок, даты прочтения и замеченное время в сети?</string>
     <string name="BygramEditHistory">История правок</string>
     <string name="BygramNoEditHistory">Сохранённых правок нет</string>

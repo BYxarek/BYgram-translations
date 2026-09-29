@@ -47,7 +47,7 @@
     <string name="BygramSaveLastOnlineInfo">Keeps the latest observed online time for users with hidden last seen. The time is approximate.</string>
     <string name="BygramObservedOnline">Observed online: %1$s</string>
     <string name="BygramClearSpyData">Clear edit, read, and online history</string>
-    <string name="BygramClearOnlineHistory">Clear online history</string>
+    <string name="BygramReadDateLabel">Read on: %1$s</string>
     <string name="BygramClearSpyDataConfirm">Delete local edit history, read dates, and observed online times?</string>
     <string name="BygramEditHistory">Edit history</string>
     <string name="BygramNoEditHistory">No saved edits</string>
