@@ -194,4 +194,7 @@
     <string name="BygramDesktopViewingTheChannelb0e91c">Viewing the channel </string>
     <string name="BygramDesktopWindowsDeviceKeyIsUnavailable68482e">Windows device key is unavailable.</string>
     <string name="BygramDesktopTdataBygramDeletedae298f">tdata/bygram-deleted/</string>
+    <string name="BygramDesktopTeamBadge">BYgram team member</string>
+    <string name="BygramDesktopResourceBadge">Official BYgram resource</string>
+    <string name="BygramDesktopProfileViewsNotificationTitle">BYgram: profile views</string>
 </resources>
