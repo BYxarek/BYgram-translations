@@ -197,4 +197,5 @@
     <string name="BygramDesktopTeamBadge">BYgram team member</string>
     <string name="BygramDesktopResourceBadge">Official BYgram resource</string>
     <string name="BygramDesktopProfileViewsNotificationTitle">BYgram: profile views</string>
+    <string name="BygramDesktopOpenFullPurchase">Open the BYgram Full purchase page?</string>
 </resources>
