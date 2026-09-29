@@ -179,4 +179,19 @@
     <string name="BygramDesktopSettingscde0fb">settings</string>
     <string name="BygramDesktopTMecdf019">t.me</string>
     <string name="BygramDesktopVersion5ca4f3">version</string>
+    <!-- Windows client UI; missing locale values fall back to English. -->
+    <string name="BygramDesktopCache7d77be">*.cache</string>
+    <string name="BygramDesktopDat648a07">*.dat</string>
+    <string name="BygramDesktopCachef45810">.cache</string>
+    <string name="BygramDesktopDat70d6ad">.dat</string>
+    <string name="BygramDesktopBygramSpye3d9db">BYgram Spy</string>
+    <string name="BygramDesktopChattingWithTheBot2fde19">Chatting with the bot </string>
+    <string name="BygramDesktopDeviceAuthorizationIsAlreadyInad0a03">Device authorization is already in progress.</string>
+    <string name="BygramDesktopDeviceAuthorizationIsRequired83d851">Device authorization is required.</string>
+    <string name="BygramDesktopInTheGroup7d957f">In the group </string>
+    <string name="BygramDesktopProductionBygramApiIsDisabledbb828e">Production BYgram API is disabled for Telegram test accounts.</string>
+    <string name="BygramDesktopUnableToSaveDeletedMessages1981ab">Unable to save deleted messages to disk. They remain in memory until the client closes. Check available disk space and permissions.</string>
+    <string name="BygramDesktopViewingTheChannelb0e91c">Viewing the channel </string>
+    <string name="BygramDesktopWindowsDeviceKeyIsUnavailable68482e">Windows device key is unavailable.</string>
+    <string name="BygramDesktopTdataBygramDeletedae298f">tdata/bygram-deleted/</string>
 </resources>
