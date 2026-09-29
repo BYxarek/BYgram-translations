@@ -69,6 +69,7 @@
         <item>Чаты</item>
     </string-array>
     <string name="BygramProfileId">Показывать ID и DC</string>
+    <string name="BygramDesktopProfileId">ID профиля</string>
     <string name="BygramProfileIdInfo">ID · Дата-центр аватара</string>
     <string name="BygramProfileIdModeInfo">Telegram API показывает ID как есть. Bot API добавляет минус для групп и -100 для супергрупп и каналов.</string>
     <string-array name="BygramIdOptions">
@@ -276,6 +277,7 @@
     <string name="BygramFirebaseAnalytics">Analytics</string>
     <string name="BygramExportSettings">Экспорт настроек BYgram</string>
     <string name="BygramResetSettings">Сброс настроек BYgram</string>
+    <string name="BygramDesktopResetInfo">Вернуть параметры BYgram к исходным значениям? Аккаунты и сохранённая история сообщений останутся. Чтобы увидеть исходные значения, откройте эту страницу заново.</string>
     <string name="BygramExportInfo">Экспорт параметров BYgram без истории сообщений, контактов и ключей переводчика.</string>
     <string name="BygramResetInfo">Вернуть параметры BYgram к исходным значениям? Аккаунты и сохранённая история сообщений останутся. После сброса перезапустите приложение.</string>
     <string name="BygramExportFailed">Не удалось сохранить настройки. Выберите другое место и попробуйте снова.</string>

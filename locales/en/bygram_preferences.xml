@@ -64,6 +64,7 @@
     <string name="BygramTitleText">Title text</string>
     <string-array name="BygramTitleOptions"><item>BYgram</item><item>Username</item><item>Name</item><item>Chats</item></string-array>
     <string name="BygramProfileId">Show ID and DC</string>
+    <string name="BygramDesktopProfileId">Profile ID</string>
     <string name="BygramProfileIdInfo">ID · Avatar data center</string>
     <string name="BygramProfileIdModeInfo">Telegram API shows the ID as-is. Bot API adds a minus sign for groups and -100 for supergroups and channels.</string>
     <string-array name="BygramIdOptions"><item>Hide</item><item>Telegram API</item><item>Bot API</item></string-array>
@@ -173,6 +174,7 @@
     <string name="BygramFirebaseAnalytics">Analytics</string>
     <string name="BygramExportSettings">Export BYgram settings</string>
     <string name="BygramResetSettings">Reset BYgram settings</string>
+    <string name="BygramDesktopResetInfo">Restore BYgram options to defaults? Accounts and saved message history will remain. Reopen this page to see the defaults.</string>
     <string name="BygramExportInfo">Exports BYgram options without message history, contacts or translation credentials.</string>
     <string name="BygramResetInfo">Restore BYgram options to defaults? Accounts and saved message history will remain. Restart the app afterwards.</string>
     <string name="BygramExportFailed">Unable to save settings. Choose another location and try again.</string>

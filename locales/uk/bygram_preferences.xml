@@ -5,6 +5,8 @@
     <string name="BygramCustomProfileMusicInfo">Показує музику в профілі великою карткою. Вимкніть, щоб використовувати звичайний компактний вигляд.</string>
     <string name="BygramFilterZalgoInfo">Видаляє символи Zalgo, що спотворюють текст, з імен і повідомлень.</string>
     <string name="BygramProfileIdModeInfo">Telegram API показує ID без змін. Bot API додає мінус для груп і -100 для супергруп та каналів.</string>
+    <string name="BygramDesktopProfileId">ID профілю</string>
+    <string name="BygramDesktopResetInfo">Відновити стандартні налаштування BYgram? Облікові записи та збережена історія повідомлень залишаться. Відкрийте цю сторінку повторно, щоб побачити стандартні значення.</string>
     <string name="BygramProfileIdCopied">ID скопійовано</string>
     <string name="BygramSwipePip">Проведіть угору для режиму «Зображення в зображенні»</string>
     <string-array name="BygramTranslationProviders">
