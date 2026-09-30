@@ -8,7 +8,7 @@
 | [`locales/ru`](locales/ru) | Русский перевод |
 | [`locales/uk`](locales/uk) | Украинский перевод (может быть неполным) |
 
-В каждом каталоге два Android XML-файла: `bygram_strings.xml` и `bygram_preferences.xml`. Отсутствующие переводы показываются на английском языке.
+В каждом каталоге два Android XML-файла: `bygram_strings.xml` и `bygram_preferences.xml`. Для Windows-клиента добавлены `locales/en/bygram_desktop.json` и `locales/ru/bygram_desktop.json`; украинский перевод пока использует английский текст. Отсутствующие переводы показываются на английском языке.
 
 ## Как предложить перевод
 
