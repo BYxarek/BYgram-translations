@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="BygramHidePhone">Приховати номер телефону</string>
+    <string name="BygramHideOwnPhoneInfo">Приховує ваш номер у вашому профілі та налаштуваннях. Не змінює видимість номера для інших користувачів Telegram.</string>
+    <string name="BygramRelativeOnline">Відносний час останнього відвідування</string>
+    <string name="BygramNoUnarchiveSwipe">Вимкнути жест «Повернути»</string>
+    <string name="BygramAppVibration">Вібрація в застосунку</string>
+    <string name="BygramLastSeenNow">був(-ла) щойно</string>
+    <string name="BygramLastSeenMinutes">був(-ла) %1$d хв. тому</string>
+    <string name="BygramLastSeenHours">був(-ла) %1$d год. тому</string>
+    <string name="BygramLastSeenDays">був(-ла) %1$d дн. тому</string>
+    <string name="BygramLastSeenMonths">був(-ла) %1$d міс. тому</string>
+    <string name="BygramLastSeenYears">був(-ла) %1$d р. тому</string>
     <string name="BygramCustomization">Кастомізація</string>
     <string name="BygramCustomProfileMusic">Власне відображення музики</string>
     <string name="BygramCustomProfileMusicInfo">Показує музику в профілі великою карткою. Вимкніть, щоб використовувати звичайний компактний вигляд.</string>
     <string name="BygramFilterZalgoInfo">Видаляє символи Zalgo, що спотворюють текст, з імен і повідомлень.</string>
     <string name="BygramProfileIdModeInfo">Telegram API показує ID без змін. Bot API додає мінус для груп і -100 для супергруп та каналів.</string>
-    <string name="BygramDesktopProfileId">ID профілю</string>
-    <string name="BygramDesktopResetInfo">Відновити стандартні налаштування BYgram? Облікові записи та збережена історія повідомлень залишаться. Відкрийте цю сторінку повторно, щоб побачити стандартні значення.</string>
     <string name="BygramProfileIdCopied">ID скопійовано</string>
     <string name="BygramSwipePip">Проведіть угору для режиму «Зображення в зображенні»</string>
     <string-array name="BygramTranslationProviders">
@@ -25,4 +34,11 @@
     <string name="BygramFirebaseCrashlytics">Crashlytics</string>
     <string name="BygramFirebaseAnalytics">Analytics</string>
     <string name="BygramTelemetryInfo">Crashlytics допомагає знаходити й виправляти збої, а Analytics — розуміти, які функції потрібно покращити. Обидва сервіси можна вимкнути будь-коли.</string>
+    <string name="BygramCollapseSearchOnStart">Згортати пошук під час запуску</string>
+    <string name="BygramCollapseSearchOnStartInfo">Відкривати список чатів зі згорнутим пошуком. Потягніть список униз або натисніть значок пошуку, щоб відкрити його.</string>
+    <string name="BygramHideArchive">Ховати архів над списком чатів</string>
+    <string name="BygramHideArchiveInfo">Щоб показати архів, додатково потягніть униз список чатів, перебуваючи в самому верху.</string>
+    <string name="BygramCallVibration">Вібрація під час дзвінка</string>
+    <string name="BygramDesktopProfileId">ID профілю</string>
+    <string name="BygramDesktopResetInfo">Відновити стандартні налаштування BYgram? Облікові записи та збережена історія повідомлень залишаться. Відкрийте цю сторінку повторно, щоб побачити стандартні значення.</string>
 </resources>
