@@ -40,6 +40,7 @@
     <string name="BygramReadOnActions">Позначати прочитаним під час дій</string>
     <string name="BygramReadOnActionsInfo">Позначає повідомлення прочитаними, коли ви надсилаєте повідомлення, ставите реакцію або натискаєте кнопку бота.</string>
     <string name="BygramSaveDeleted">Зберігати видалені та зникаючі повідомлення</string>
+    <string name="BygramSaveOwnDeleted">Зберігати свої повідомлення під час видалення мною</string>
     <string name="BygramSaveEdits">Зберігати історію редагувань</string>
     <string name="BygramSaveReadDate">Зберігати дату прочитання</string>
     <string name="BygramSaveReadDateInfo">Локально зберігає одну дату прочитання для кожного діапазону повідомлень, прочитаного одним оновленням.</string>
