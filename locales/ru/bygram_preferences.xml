@@ -12,7 +12,7 @@
     <string name="BygramSeconds">Форматировать время с секундами</string>
     <string name="BygramNoNotificationDelay">Отключить задержку уведомлений</string>
     <string name="BygramArchive">Архив чатов</string>
-    <string name="BygramHideArchive">Скрыть архив из списка чатов</string>
+    <string name="BygramHideArchive">Скрывать архив над списком чатов</string>
     <string name="BygramChatList">Список чатов</string>
     <string name="BygramHideStories">Скрыть истории</string>
     <string name="BygramHideFab">Скрыть плавающую кнопку</string>
@@ -33,6 +33,11 @@
     <string name="BygramCustomProfileMusicInfo">Показывает музыку в профиле крупной карточкой. Выключите, чтобы использовать обычный компактный вид.</string>
     <string name="BygramRelativeOnline">Относительное время онлайна</string>
     <string name="BygramHidePhone">Скрыть номер телефона</string>
+    <string name="BygramHideOwnPhoneInfo">Скрывает ваш номер в вашем профиле и настройках. Не меняет видимость номера для других пользователей Telegram.</string>
+    <string name="BygramAppVibration">Вибрация в приложении</string>
+    <string name="BygramLastSeenDays">был(а) %1$d дн. назад</string>
+    <string name="BygramLastSeenMonths">был(а) %1$d мес. назад</string>
+    <string name="BygramLastSeenYears">был(а) %1$d г. назад</string>
     <string name="BygramScrollHideKeyboard">Скрывать клавиатуру при прокрутке</string>
     <string name="BygramLastSeenNow">был(а) только что</string>
     <string name="BygramLastSeenMinutes">был(а) %1$d мин. назад</string>
@@ -62,6 +67,12 @@
     <string name="BygramHideTitleStatus">Скрыть Premium-статус в заголовке</string>
     <string name="BygramCenterTitle">Заголовок по центру</string>
     <string name="BygramTitleText">Текст заголовка</string>
+    <string name="BygramTitlePosition">Положение заголовка и эмодзи</string>
+    <string-array name="BygramTitlePositionOptions">
+        <item>Слева</item>
+        <item>По центру</item>
+        <item>Справа</item>
+    </string-array>
     <string-array name="BygramTitleOptions">
         <item>BYgram</item>
         <item>Имя пользователя</item>
@@ -69,7 +80,6 @@
         <item>Чаты</item>
     </string-array>
     <string name="BygramProfileId">Показывать ID и DC</string>
-    <string name="BygramDesktopProfileId">ID профиля</string>
     <string name="BygramProfileIdInfo">ID · Дата-центр аватара</string>
     <string name="BygramProfileIdModeInfo">Telegram API показывает ID как есть. Bot API добавляет минус для групп и -100 для супергрупп и каналов.</string>
     <string-array name="BygramIdOptions">
@@ -277,7 +287,6 @@
     <string name="BygramFirebaseAnalytics">Analytics</string>
     <string name="BygramExportSettings">Экспорт настроек BYgram</string>
     <string name="BygramResetSettings">Сброс настроек BYgram</string>
-    <string name="BygramDesktopResetInfo">Вернуть параметры BYgram к исходным значениям? Аккаунты и сохранённая история сообщений останутся. Чтобы увидеть исходные значения, откройте эту страницу заново.</string>
     <string name="BygramExportInfo">Экспорт параметров BYgram без истории сообщений, контактов и ключей переводчика.</string>
     <string name="BygramResetInfo">Вернуть параметры BYgram к исходным значениям? Аккаунты и сохранённая история сообщений останутся. После сброса перезапустите приложение.</string>
     <string name="BygramExportFailed">Не удалось сохранить настройки. Выберите другое место и попробуйте снова.</string>
@@ -286,4 +295,10 @@
     <string name="BygramMessageDetails">Сведения о сообщении</string>
     <string name="BygramRepeatDraft">Повторить через черновик</string>
     <string name="BygramCopyPhoto">Копировать фото</string>
+    <string name="BygramCollapseSearchOnStart">Сворачивать поиск при запуске</string>
+    <string name="BygramCollapseSearchOnStartInfo">Открывать список чатов со свёрнутым поиском. Потяните список вниз или нажмите значок поиска, чтобы открыть его.</string>
+    <string name="BygramHideArchiveInfo">Чтобы показать архив, дополнительно потяните вниз список чатов, находясь в самом верху.</string>
+    <string name="BygramCallVibration">Вибрация при звонке</string>
+    <string name="BygramDesktopProfileId">ID профиля</string>
+    <string name="BygramDesktopResetInfo">Вернуть параметры BYgram к исходным значениям? Аккаунты и сохранённая история сообщений останутся. Чтобы увидеть исходные значения, откройте эту страницу заново.</string>
 </resources>
