@@ -12,7 +12,7 @@
     <string name="BygramSeconds">Show seconds in time</string>
     <string name="BygramNoNotificationDelay">Disable notification delay</string>
     <string name="BygramArchive">Archived chats</string>
-    <string name="BygramHideArchive">Hide archive from chat list</string>
+    <string name="BygramHideArchive">Hide archive above the chat list</string>
     <string name="BygramChatList">Chat list</string>
     <string name="BygramHideStories">Hide stories</string>
     <string name="BygramHideFab">Hide floating button</string>
@@ -33,6 +33,11 @@
     <string name="BygramCustomProfileMusicInfo">Shows profile music as a large card. Turn it off to use the standard compact style.</string>
     <string name="BygramRelativeOnline">Relative last seen time</string>
     <string name="BygramHidePhone">Hide phone number</string>
+    <string name="BygramHideOwnPhoneInfo">Hide your phone number in your profile and settings. This does not change who can see it on Telegram.</string>
+    <string name="BygramAppVibration">In-app vibration</string>
+    <string name="BygramLastSeenDays">last seen %1$d d ago</string>
+    <string name="BygramLastSeenMonths">last seen %1$d mo ago</string>
+    <string name="BygramLastSeenYears">last seen %1$d y ago</string>
     <string name="BygramScrollHideKeyboard">Hide keyboard when scrolling</string>
     <string name="BygramLastSeenNow">last seen just now</string>
     <string name="BygramLastSeenMinutes">last seen %1$d min ago</string>
@@ -62,9 +67,10 @@
     <string name="BygramHideTitleStatus">Hide Premium status in the title</string>
     <string name="BygramCenterTitle">Center title</string>
     <string name="BygramTitleText">Title text</string>
+    <string name="BygramTitlePosition">Title and emoji position</string>
+    <string-array name="BygramTitlePositionOptions"><item>Left</item><item>Center</item><item>Right</item></string-array>
     <string-array name="BygramTitleOptions"><item>BYgram</item><item>Username</item><item>Name</item><item>Chats</item></string-array>
     <string name="BygramProfileId">Show ID and DC</string>
-    <string name="BygramDesktopProfileId">Profile ID</string>
     <string name="BygramProfileIdInfo">ID · Avatar data center</string>
     <string name="BygramProfileIdModeInfo">Telegram API shows the ID as-is. Bot API adds a minus sign for groups and -100 for supergroups and channels.</string>
     <string-array name="BygramIdOptions"><item>Hide</item><item>Telegram API</item><item>Bot API</item></string-array>
@@ -174,7 +180,6 @@
     <string name="BygramFirebaseAnalytics">Analytics</string>
     <string name="BygramExportSettings">Export BYgram settings</string>
     <string name="BygramResetSettings">Reset BYgram settings</string>
-    <string name="BygramDesktopResetInfo">Restore BYgram options to defaults? Accounts and saved message history will remain. Reopen this page to see the defaults.</string>
     <string name="BygramExportInfo">Exports BYgram options without message history, contacts or translation credentials.</string>
     <string name="BygramResetInfo">Restore BYgram options to defaults? Accounts and saved message history will remain. Restart the app afterwards.</string>
     <string name="BygramExportFailed">Unable to save settings. Choose another location and try again.</string>
@@ -183,4 +188,10 @@
     <string name="BygramMessageDetails">Message details</string>
     <string name="BygramRepeatDraft">Repeat via draft</string>
     <string name="BygramCopyPhoto">Copy photo</string>
+    <string name="BygramCollapseSearchOnStart">Collapse search on launch</string>
+    <string name="BygramCollapseSearchOnStartInfo">Start the chat list with search collapsed. Pull down or tap the search icon to open it.</string>
+    <string name="BygramHideArchiveInfo">Pull down again at the top of the chat list to reveal the archive.</string>
+    <string name="BygramCallVibration">Vibration during calls</string>
+    <string name="BygramDesktopProfileId">Profile ID</string>
+    <string name="BygramDesktopResetInfo">Restore BYgram options to defaults? Accounts and saved message history will remain. Reopen this page to see the defaults.</string>
 </resources>

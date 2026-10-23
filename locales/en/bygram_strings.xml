@@ -40,6 +40,7 @@
     <string name="BygramReadOnActions">Read on actions</string>
     <string name="BygramReadOnActionsInfo">Marks messages as read when you send a message, react, or press a bot button.</string>
     <string name="BygramSaveDeleted">Save deleted and disappearing messages</string>
+    <string name="BygramSaveOwnDeleted">Keep my messages when I delete them</string>
     <string name="BygramSaveEdits">Save edit history</string>
     <string name="BygramSaveReadDate">Save read date</string>
     <string name="BygramSaveReadDateInfo">Stores one local read date for each message range read by the same update.</string>
@@ -47,7 +48,6 @@
     <string name="BygramSaveLastOnlineInfo">Keeps the latest observed online time for users with hidden last seen. The time is approximate.</string>
     <string name="BygramObservedOnline">Observed online: %1$s</string>
     <string name="BygramClearSpyData">Clear edit, read, and online history</string>
-    <string name="BygramReadDateLabel">Read on: %1$s</string>
     <string name="BygramClearSpyDataConfirm">Delete local edit history, read dates, and observed online times?</string>
     <string name="BygramEditHistory">Edit history</string>
     <string name="BygramNoEditHistory">No saved edits</string>
@@ -108,7 +108,7 @@
     <string name="BygramProfileViewsEmpty">No one has viewed your profile yet</string>
     <string name="BygramProfileViewsVerify">Verify your account with the Telegram bot, then return and enable this feature.</string>
     <string name="BygramProfileViewsNotification">%1$s viewed your profile</string>
-    <!-- Windows client UI; missing locale values fall back to English. -->
+    <string name="BygramReadDateLabel">Read on: %1$s</string>
     <string name="BygramDesktopBygramWindowsa6eeba"> (BYgram Windows)</string>
     <string name="BygramDesktopActivityAndViewerPermissions664d7b">Activity and viewer permissions</string>
     <string name="BygramDesktopAvatarCorners0809f0">Avatar corners</string>
@@ -179,7 +179,6 @@
     <string name="BygramDesktopSettingscde0fb">settings</string>
     <string name="BygramDesktopTMecdf019">t.me</string>
     <string name="BygramDesktopVersion5ca4f3">version</string>
-    <!-- Windows client UI; missing locale values fall back to English. -->
     <string name="BygramDesktopCache7d77be">*.cache</string>
     <string name="BygramDesktopDat648a07">*.dat</string>
     <string name="BygramDesktopCachef45810">.cache</string>
