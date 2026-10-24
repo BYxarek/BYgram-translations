@@ -109,4 +109,5 @@
     <string name="BygramProfileViewsVerify">Не удалось включить просмотры профиля. Проверьте подключение и попробуйте снова.</string>
     <string name="BygramProfileViewsNotification">%1$s просмотрел(а) ваш профиль</string>
     <string name="BygramReadDateLabel">Прочитано: %1$s</string>
+    <string name="BygramBackgroundVerify">Не удалось опубликовать фон. Проверьте подключение и попробуйте снова.</string>
 </resources>
