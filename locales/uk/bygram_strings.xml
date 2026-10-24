@@ -108,4 +108,5 @@
     <string name="BygramProfileViewsEmpty">Ваш профіль ще ніхто не переглядав</string>
     <string name="BygramProfileViewsVerify">Не вдалося увімкнути перегляди профілю. Перевірте підключення та спробуйте ще раз.</string>
     <string name="BygramProfileViewsNotification">%1$s переглянув(ла) ваш профіль</string>
+    <string name="BygramBackgroundVerify">Не вдалося опублікувати фон. Перевірте підключення та спробуйте ще раз.</string>
 </resources>
