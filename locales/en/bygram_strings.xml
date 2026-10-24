@@ -3,7 +3,7 @@
     <string name="BygramResourceBadgeNotice">Official BYgram resource</string>
     <string name="BygramUserBadgeNotice">This user is a member of the BYgram team</string>
     <string name="BygramCustomTyping">Custom typing status</string>
-    <string name="BygramCustomTypingInfo">Set a phrase for each action in private chats. Other BYgram users see it after you confirm your Telegram account through the bot. Empty text restores the standard status.</string>
+    <string name="BygramCustomTypingInfo">Set a phrase for each action in private chats. Other BYgram users see it after you publish your statuses. Empty text restores the standard status.</string>
     <string name="BygramTypingDefault">Standard status</string>
     <string name="BygramTypingText">Typing</string>
     <string name="BygramTypingRecordAudio">Recording voice</string>
@@ -18,7 +18,7 @@
     <string name="BygramTypingGame">Playing game</string>
     <string name="BygramTypingPublish">Publish statuses</string>
     <string name="BygramTypingPublishSuccess">Statuses saved successfully</string>
-    <string name="BygramTypingVerify">Confirm your Telegram account through the BYgram bot, then return here and tap Publish statuses.</string>
+    <string name="BygramTypingVerify">Could not publish statuses. Check your connection and try again.</string>
     <string name="BygramTypingOpenBot">Open bot</string>
     <string name="BygramTypingPublishFailed">Could not publish statuses. Check your connection and try again.</string>
     <string name="BygramSettings">BYgram Settings</string>
@@ -55,7 +55,7 @@
     <string name="BygramWhoCanSeeActivity">Who can see your activity</string>
     <string name="BygramShareActivityMaster">Share my activity</string>
     <string name="BygramShareActivityPrivacy">Activity is visible only to the people selected below and only in the categories allowed for each person. Current activity is stored on the BYgram server for up to 60 seconds.</string>
-    <string name="BygramShareActivityInfo">People need BYgram Full and an active license to view activity. Existing “who are they chatting with?” permissions are kept for chat activity only.</string>
+    <string name="BygramShareActivityInfo">Selected BYgram users can view the activity you allow. Existing “who are they chatting with?” permissions are kept for chat activity only.</string>
     <string name="BygramViewingChat">In a chat with %1$s</string>
     <string name="BygramActivityDialogs">Viewing the chat list</string>
     <string name="BygramActivityProfile">Viewing %1$s’s profile</string>
@@ -73,14 +73,14 @@
     <string name="BygramActivityDialogsShort">chat list</string>
     <string name="BygramActivityProfileShort">profiles</string>
     <string name="BygramActivityChatShort">chats</string>
-    <string name="BygramLicenseTitle">Paid feature</string>
-    <string name="BygramLicenseMessage">Contact the BYgram manager to buy lifetime access to “Who are they chatting with?”.</string>
-    <string name="BygramLicenseBuy">Open manager</string>
-    <string name="BygramLicenseUnavailable">Could not check the license. Check your internet connection and try again.</string>
-    <string name="BygramLicenseActivationMessage">Confirm this Telegram account in the official BYgram bot, then return to the app.</string>
-    <string name="BygramLicenseActivate">Activate Full</string>
+    <string name="BygramLicenseTitle">Feature unavailable</string>
+    <string name="BygramLicenseMessage">Could not access this feature. Please try again later.</string>
+    <string name="BygramLicenseBuy">Open bot</string>
+    <string name="BygramLicenseUnavailable">Could not connect to BYgram. Check your internet connection and try again.</string>
+    <string name="BygramLicenseActivationMessage">Could not connect your account. Check your connection and try again.</string>
+    <string name="BygramLicenseActivate">Connect</string>
     <string name="BygramDeviceLimitTitle">Device limit</string>
-    <string name="BygramDeviceLimitMessage">Full is already active on two devices. Choose one device to unlink.</string>
+    <string name="BygramDeviceLimitMessage">The device limit has been reached. Choose one device to unlink.</string>
     <string name="BygramDeviceReplaceTitle">Replace device?</string>
     <string name="BygramDeviceReplaceMessage">Unlink “%1$s” and activate this device?</string>
     <string name="BygramDeviceReplace">Unlink and activate</string>
@@ -106,23 +106,23 @@
     <string name="BygramProfileViewsInfo">See who viewed your profile in the last 7 days. If others enable this setting, they can also see that you viewed their profile.</string>
     <string name="BygramProfileViewsRecent">Last 7 days</string>
     <string name="BygramProfileViewsEmpty">No one has viewed your profile yet</string>
-    <string name="BygramProfileViewsVerify">Verify your account with the Telegram bot, then return and enable this feature.</string>
+    <string name="BygramProfileViewsVerify">Could not enable profile views. Check your connection and try again.</string>
     <string name="BygramProfileViewsNotification">%1$s viewed your profile</string>
     <string name="BygramReadDateLabel">Read on: %1$s</string>
     <string name="BygramDesktopBygramWindowsa6eeba"> (BYgram Windows)</string>
     <string name="BygramDesktopActivityAndViewerPermissions664d7b">Activity and viewer permissions</string>
     <string name="BygramDesktopAvatarCorners0809f0">Avatar corners</string>
     <string name="BygramDesktopBygram330881">BYgram</string>
-    <string name="BygramDesktopBygramFull33ed3e">BYgram Full</string>
-    <string name="BygramDesktopBygramFullIsActivef0e0e4">BYgram Full is active.</string>
-    <string name="BygramDesktopBygramFullIsNotActive2aaa39">BYgram Full is not active.</string>
+    <string name="BygramDesktopBygramFull33ed3e">BYgram</string>
+    <string name="BygramDesktopBygramFullIsActivef0e0e4">Connected to BYgram.</string>
+    <string name="BygramDesktopBygramFullIsNotActive2aaa39">Not connected to BYgram.</string>
     <string name="BygramDesktopBygramActivityAcl6493a0">BYgram activity ACL</string>
     <string name="BygramDesktopBotApib5b9a3">Bot API</string>
     <string name="BygramDesktopChangeHiddenChatsPinafc5ac">Change hidden chats PIN</string>
     <string name="BygramDesktopChatPrivacya61498">Chat privacy</string>
     <string name="BygramDesktopClearSpyData74c8f2">Clear Spy Data</string>
     <string name="BygramDesktopConfirmPasswordOrPinfab90d">Confirm password or PIN</string>
-    <string name="BygramDesktopConfirmThisDeviceInThe195a65">Confirm this device in the BYgram bot?</string>
+    <string name="BygramDesktopConfirmThisDeviceInThe195a65">Connect this device to BYgram?</string>
     <string name="BygramDesktopCurrentPin61182a">Current PIN</string>
     <string name="BygramDesktopCustomStatusUpTo64c4117c">Custom status (up to 64 characters; empty restores default)</string>
     <string name="BygramDesktopCustomizationdb4fd5">Customization</string>
@@ -132,7 +132,7 @@
     <string name="BygramDesktopEnableOrDisableProfileViews143260">Enable or disable profile views</string>
     <string name="BygramDesktopEnableProfileViewsOtherParticipantsb12e45">Enable profile views? Other participants will see your visits. The server keeps visits for 7 days.</string>
     <string name="BygramDesktopExportBygramSettings0355d5">Export BYgram settings</string>
-    <string name="BygramDesktopFullDeviceAuthorizationfbe207">Full: device authorization</string>
+    <string name="BygramDesktopFullDeviceAuthorizationfbe207">Device connection</string>
     <string name="BygramDesktopHiddenChatsPine06dfa">Hidden chats PIN</string>
     <string name="BygramDesktopHideChat1ed9f9">Hide chat</string>
     <string name="BygramDesktopInChat274726">In chat: </string>
@@ -171,7 +171,7 @@
     <string name="BygramDesktopUploadingVoicec1db59">Uploading voice</string>
     <string name="BygramDesktopViewingChatsfd541b">Viewing chats</string>
     <string name="BygramDesktopViewingProfilecbd3d9">Viewing profile: </string>
-    <string name="BygramDesktopWaitingForConfirmationInThef7d807">Waiting for confirmation in the BYgram bot.</string>
+    <string name="BygramDesktopWaitingForConfirmationInThef7d807">Connecting to BYgram.</string>
     <string name="BygramDesktopZalgoFilter592fda">Zalgo filter</string>
     <string name="BygramDesktopAppa172ce">app</string>
     <string name="BygramDesktopApplicationJsonCharsetUtf88d76c0">application/json; charset=utf-8</string>
@@ -196,5 +196,5 @@
     <string name="BygramDesktopTeamBadge">BYgram team member</string>
     <string name="BygramDesktopResourceBadge">Official BYgram resource</string>
     <string name="BygramDesktopProfileViewsNotificationTitle">BYgram: profile views</string>
-    <string name="BygramDesktopOpenFullPurchase">Open the BYgram Full purchase page?</string>
+    <string name="BygramDesktopOpenFullPurchase">Open the BYgram page?</string>
 </resources>
