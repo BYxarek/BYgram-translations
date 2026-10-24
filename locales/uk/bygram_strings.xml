@@ -3,7 +3,7 @@
     <string name="BygramResourceBadgeNotice">Офіційний ресурс BYgram</string>
     <string name="BygramUserBadgeNotice">Користувач є учасником команди BYgram</string>
     <string name="BygramCustomTyping">Власний статус друку</string>
-    <string name="BygramCustomTypingInfo">Задайте фразу для кожної дії в особистих чатах. Інші користувачі BYgram побачать її після підтвердження облікового запису через бота. Порожнє поле повертає звичайний статус.</string>
+    <string name="BygramCustomTypingInfo">Задайте фразу для кожної дії в особистих чатах. Інші користувачі BYgram побачать її після публікації статусів. Порожнє поле повертає звичайний статус.</string>
     <string name="BygramTypingDefault">Звичайний статус</string>
     <string name="BygramTypingText">Друкує</string>
     <string name="BygramTypingRecordAudio">Записує голосове</string>
@@ -18,7 +18,7 @@
     <string name="BygramTypingGame">Грає</string>
     <string name="BygramTypingPublish">Опублікувати статуси</string>
     <string name="BygramTypingPublishSuccess">Статуси успішно збережено</string>
-    <string name="BygramTypingVerify">Підтвердьте обліковий запис Telegram через бота, потім поверніться сюди та натисніть «Опублікувати статуси».</string>
+    <string name="BygramTypingVerify">Не вдалося опублікувати статуси. Перевірте підключення та спробуйте ще раз.</string>
     <string name="BygramTypingOpenBot">Відкрити бота</string>
     <string name="BygramTypingPublishFailed">Не вдалося опублікувати статуси. Перевірте мережу та повторіть спробу.</string>
     <string name="BygramSettings">Налаштування BYgram</string>
@@ -55,7 +55,7 @@
     <string name="BygramWhoCanSeeActivity">Хто може бачити вашу активність</string>
     <string name="BygramShareActivityMaster">Показувати мою активність</string>
     <string name="BygramShareActivityPrivacy">Активність бачать лише вибрані нижче люди й лише в дозволених для кожного категоріях. Поточна активність зберігається на сервері BYgram не більше 60 секунд.</string>
-    <string name="BygramShareActivityInfo">Для перегляду активності потрібні BYgram Full і активна ліцензія. Старі дозволи функції «З ким у чаті?» зберігаються лише для активності в чатах.</string>
+    <string name="BygramShareActivityInfo">Вибрані користувачі BYgram бачать лише дозволену вами активність. Старі дозволи функції «З ким у чаті?» зберігаються лише для активності в чатах.</string>
     <string name="BygramViewingChat">У чаті з %1$s</string>
     <string name="BygramActivityDialogs">Переглядає список чатів</string>
     <string name="BygramActivityProfile">Переглядає профіль %1$s</string>
@@ -73,14 +73,14 @@
     <string name="BygramActivityDialogsShort">список чатів</string>
     <string name="BygramActivityProfileShort">профілі</string>
     <string name="BygramActivityChatShort">чати</string>
-    <string name="BygramLicenseTitle">Платна функція</string>
-    <string name="BygramLicenseMessage">Придбайте безстроковий доступ до функції «З ким вони спілкуються?» через офіційного бота BYgram.</string>
+    <string name="BygramLicenseTitle">Функція недоступна</string>
+    <string name="BygramLicenseMessage">Не вдалося отримати доступ до функції. Спробуйте пізніше.</string>
     <string name="BygramLicenseBuy">Відкрити бота</string>
-    <string name="BygramLicenseUnavailable">Не вдалося перевірити ліцензію. Перевірте підключення до інтернету та спробуйте ще раз.</string>
-    <string name="BygramLicenseActivationMessage">Підтвердьте цей обліковий запис Telegram в офіційному боті BYgram, а потім поверніться до застосунку.</string>
-    <string name="BygramLicenseActivate">Активувати Full</string>
+    <string name="BygramLicenseUnavailable">Не вдалося підключитися до BYgram. Перевірте підключення до інтернету та спробуйте ще раз.</string>
+    <string name="BygramLicenseActivationMessage">Не вдалося підключити обліковий запис. Перевірте підключення та спробуйте ще раз.</string>
+    <string name="BygramLicenseActivate">Підключити</string>
     <string name="BygramDeviceLimitTitle">Ліміт пристроїв</string>
-    <string name="BygramDeviceLimitMessage">BYgram Full уже активовано на двох пристроях. Виберіть пристрій, який потрібно відв’язати.</string>
+    <string name="BygramDeviceLimitMessage">Досягнуто ліміту пристроїв. Виберіть пристрій, який потрібно відв’язати.</string>
     <string name="BygramDeviceReplaceTitle">Замінити пристрій?</string>
     <string name="BygramDeviceReplaceMessage">Відв’язати «%1$s» й активувати цей пристрій?</string>
     <string name="BygramDeviceReplace">Відв’язати й активувати</string>
@@ -106,6 +106,6 @@
     <string name="BygramProfileViewsInfo">Дізнайтеся, хто переглядав ваш профіль за останні 7 днів. Якщо інші користувачі увімкнули це налаштування, вони також побачать, що ви переглядали їхній профіль.</string>
     <string name="BygramProfileViewsRecent">За останні 7 днів</string>
     <string name="BygramProfileViewsEmpty">Ваш профіль ще ніхто не переглядав</string>
-    <string name="BygramProfileViewsVerify">Підтвердьте свій акаунт через Telegram-бота, потім поверніться та увімкніть функцію.</string>
+    <string name="BygramProfileViewsVerify">Не вдалося увімкнути перегляди профілю. Перевірте підключення та спробуйте ще раз.</string>
     <string name="BygramProfileViewsNotification">%1$s переглянув(ла) ваш профіль</string>
 </resources>
