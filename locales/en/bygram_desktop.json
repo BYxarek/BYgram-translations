@@ -2,8 +2,8 @@
   "Activity and viewer permissions": "Activity and viewer permissions",
   "Avatar corners": "Avatar corners",
   "BYgram Desktop": "BYgram Desktop",
-  "BYgram Full is active.": "BYgram Full is active.",
-  "BYgram Full is not active.": "BYgram Full is not active.",
+  "BYgram Full is active.": "Connected to BYgram.",
+  "BYgram Full is not active.": "Not connected to BYgram.",
   "BYgram Settings": "BYgram Settings",
   "BYgram activity ACL": "BYgram activity ACL",
   "BYgram team member": "BYgram team member",
@@ -28,7 +28,7 @@
   "Enable or disable profile views": "Enable or disable profile views",
   "Enable profile views? Other participants will see your visits. The server keeps visits for 7 days.": "Enable profile views? Other participants will see your visits. The server keeps visits for 7 days.",
   "Export BYgram settings": "Export BYgram settings",
-  "Full: device authorization": "Full: device authorization",
+  "Full: device authorization": "Device connection",
   "Ghost Mode": "Ghost Mode",
   "Hidden chats": "Hidden chats",
   "Hidden chats PIN": "Hidden chats PIN",
@@ -78,6 +78,6 @@
   "Uploading round video": "Uploading round video",
   "Uploading video": "Uploading video",
   "Uploading voice": "Uploading voice",
-  "Waiting for confirmation in the BYgram bot.": "Waiting for confirmation in the BYgram bot.",
+  "Waiting for confirmation in the BYgram bot.": "Connecting to BYgram.",
   "Zalgo filter": "Zalgo filter"
 }
