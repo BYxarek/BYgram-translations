@@ -2,8 +2,8 @@
   "Activity and viewer permissions": "Активность и права зрителей",
   "Avatar corners": "Скругление аватаров",
   "BYgram Desktop": "BYgram Desktop",
-  "BYgram Full is active.": "BYgram Full активен.",
-  "BYgram Full is not active.": "BYgram Full неактивен.",
+  "BYgram Full is active.": "Подключено к BYgram.",
+  "BYgram Full is not active.": "Нет подключения к BYgram.",
   "BYgram Settings": "Настройки BYgram",
   "BYgram activity ACL": "Права доступа к активности BYgram",
   "BYgram team member": "Пользователь из команды BYgram",
@@ -28,7 +28,7 @@
   "Enable or disable profile views": "Включить или выключить просмотры профиля",
   "Enable profile views? Other participants will see your visits. The server keeps visits for 7 days.": "Включить просмотры профиля? Другие участники увидят ваши посещения. Сервер хранит их 7 дней.",
   "Export BYgram settings": "Экспорт настроек BYgram",
-  "Full: device authorization": "Full: авторизация устройства",
+  "Full: device authorization": "Подключение устройства",
   "Ghost Mode": "Режим призрака",
   "Hidden chats": "Скрытые чаты",
   "Hidden chats PIN": "PIN скрытых чатов",
@@ -78,6 +78,6 @@
   "Uploading round video": "Загрузка видеосообщения",
   "Uploading video": "Загрузка видео",
   "Uploading voice": "Загрузка голосового",
-  "Waiting for confirmation in the BYgram bot.": "Ожидание подтверждения в боте BYgram.",
+  "Waiting for confirmation in the BYgram bot.": "Подключение к BYgram.",
   "Zalgo filter": "Фильтр Zalgo"
 }
